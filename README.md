@@ -50,12 +50,11 @@
 </div>
 <br>
 
-<div align="center" style="display: flex; justify-content: space-around; gap: 20px;">
-  <a href="https://github.com/CodeDDAGGI">
+<div align="center">
+  <a href="https://github.com/CodeDDAGGI" style="display: inline-block; margin-right: 20px;">
     <img align="center" style="height:200px; width: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDDAGGI&layout=compact&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/CodeDDAGGI">
+  <a href="https://github.com/CodeDDAGGI" style="display: inline-block;">
     <img align="center" style="height:200px; width: auto;" src="https://github-readme-stats.vercel.app/api?username=CodeDDAGGI&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
   </a>
 </div>
-
