@@ -1,4 +1,8 @@
-## Hi there 👋
+
+![logo](https://github.com/user-attachments/assets/d59fa7b6-1259-4863-bb85-9a25f9082da4)
+
+
+
 
 <!--
 **CodeDDAGGI/CodeDDAGGI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
