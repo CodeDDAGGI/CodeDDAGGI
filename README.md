@@ -9,21 +9,21 @@
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=ffffff&background=3b82f6" />&nbsp
-  <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=ffffff&background=374151" />&nbsp
-  <img src="https://img.shields.io/badge/spring%20data%20jpa-6DB33F?style=for-the-badge&logo=springdata&logoColor=ffffff&background=047857" />&nbsp
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=ffffff&background=1e40af" />&nbsp
+  <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=ffffff&background=15803d" />&nbsp
+  <img src="https://img.shields.io/badge/spring%20data%20jpa-6DB33F?style=for-the-badge&logo=springdata&logoColor=ffffff&background=10b981" />&nbsp
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=ffffff&background=0f4c5c" />&nbsp
+  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=ffffff&background=2b6cb0" />&nbsp
   <img src="https://img.shields.io/badge/h2-009639?style=for-the-badge&logo=h2&logoColor=ffffff&background=16a34a" />&nbsp
-  <img src="https://img.shields.io/badge/mybatis-000000?style=for-the-badge&logo=mybatis&logoColor=ffffff&background=dc2626" />&nbsp
+  <img src="https://img.shields.io/badge/mybatis-000000?style=for-the-badge&logo=mybatis&logoColor=ffffff&background=ef4444" />&nbsp
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=ffffff&background=9333ea" />&nbsp
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=ffffff&background=8b5cf6" />&nbsp
   <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff&background=0284c7" />&nbsp
   <img src="https://img.shields.io/badge/jwt-000000?style=for-the-badge&logo=jwt&logoColor=ffffff&background=ef4444" />&nbsp
 </div>
@@ -41,8 +41,8 @@
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=ffffff&background=ef4444" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=ffffff&background=0e9f6e" />&nbsp
+  <img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=ffffff&background=f97316" />&nbsp
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=ffffff&background=22c55e" />&nbsp
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=ffffff&background=6b21a8" />&nbsp
 </div>
 
