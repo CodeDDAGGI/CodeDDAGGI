@@ -50,7 +50,7 @@
 </div>
 <br>
 
-<div align="center">
+<div align="center" style="width:100%">
   <a href="https://github.com/CodeDDAGGI" style="display: inline-block; margin-right: 20px;">
     <img align="center" style="height:200px; width: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDDAGGI&layout=compact&theme=tokyonight&hide_border=true" />
   </a>
