@@ -48,7 +48,13 @@
   <img src="https://img.shields.io/badge/maven-be185d?style=for-the-badge&logo=maven&logoColor=F0E68C&background=be185d" />&nbsp
   <img src="https://img.shields.io/badge/gradle-9333ea?style=for-the-badge&logo=gradle&logoColor=F4A460&background=9333ea" />&nbsp
 </div>
+<br>
 
-
-
-
+<div align="center">
+  <a href="https://github.com/CodeDDAGGI">
+    <img align="center" style="height:200px; max-width:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDDAGGI&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile/">
+    <img align="center" style="height:200px; width:200px" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
