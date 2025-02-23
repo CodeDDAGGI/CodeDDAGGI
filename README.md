@@ -50,11 +50,12 @@
 </div>
 <br>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: space-around; gap: 20px;">
   <a href="https://github.com/CodeDDAGGI">
-    <img align="center" style="height:200px; max-width:100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDDAGGI&layout=compact&theme=tokyonight&hide_border=true" />
+    <img align="center" style="height:200px; width: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDDAGGI&layout=compact&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile/">
-    <img align="center" style="height:200px; width:200px" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/CodeDDAGGI">
+    <img align="center" style="height:200px; width: auto;" src="https://github-readme-stats.vercel.app/api?username=CodeDDAGGI&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
   </a>
 </div>
+
