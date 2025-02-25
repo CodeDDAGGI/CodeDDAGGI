@@ -32,7 +32,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=F4A460&background=9d174d" />&nbsp
   <img src="https://img.shields.io/badge/r2dbc-00C8A8?style=for-the-badge&logo=r2dbc&logoColor=ADFF2F&background=10b981" />&nbsp
-  <img src="https://img.shields.io/badge/kafka-db2777?style=for-the-badge&logo=apachekafka&logoColor=FFD700&background=db2777" />&nbsp
 </div>
 
 <br>
